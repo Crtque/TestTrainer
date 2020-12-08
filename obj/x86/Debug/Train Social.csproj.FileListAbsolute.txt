@@ -1,0 +1,17 @@
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\Train Social.csprojAssemblyReference.cache
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.Addquestion.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.Editadmin.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.Editheme.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.Admin.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.Auth.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.Editquestion.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.First.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.Productinfo.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.QuestionInfo.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.Quiz.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.ReadQuestion.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.Results.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.Signup.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\WindowsFormsApplication1.Usettings.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Train Social1\obj\x86\Debug\Train Social.csproj.GenerateResource.cache

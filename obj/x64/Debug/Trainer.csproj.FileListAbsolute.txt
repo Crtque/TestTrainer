@@ -1,0 +1,96 @@
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\Trainer.csprojAssemblyReference.cache
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\Trainer.Properties.Resources.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\Trainer.csproj.GenerateResource.cache
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\bin\x64\Debug\Trainer.exe.config
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\bin\x64\Debug\Trainer.exe.manifest
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\bin\x64\Debug\Trainer.application
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\bin\x64\Debug\Trainer.exe
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\bin\x64\Debug\Trainer.pdb
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\bin\x64\Debug\System.Data.SQLite.dll
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\bin\x64\Debug\System.Web.Helpers.dll
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\bin\x64\Debug\System.Web.Helpers.xml
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.Addquestion.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.Editadmin.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.Editheme.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.Admin.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.Auth.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.Editquestion.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.First.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.Menu.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.Productinfo.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.QuestionInfo.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.Quiz.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.ReadQuestion.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.Results.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.Signup.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\TrainerSpace.Usettings.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\Trainer.TrustInfo.xml
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\Trainer.exe.manifest
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\Trainer.application
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\Trainer.csproj.CopyComplete
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\Trainer.exe
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\source\Trainer\obj\x64\Debug\Trainer.pdb
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\bin\x64\Debug\Trainer.exe.config
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\bin\x64\Debug\Trainer.exe.manifest
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\bin\x64\Debug\Trainer.application
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\bin\x64\Debug\Trainer.exe
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\bin\x64\Debug\Trainer.pdb
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\bin\x64\Debug\System.Data.SQLite.dll
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\bin\x64\Debug\System.Web.Helpers.dll
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\bin\x64\Debug\System.Web.Helpers.xml
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\Trainer.csprojAssemblyReference.cache
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.Addquestion.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.Editadmin.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.Editheme.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.Admin.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.Auth.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.Editquestion.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.First.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.Menu.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.Productinfo.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\Trainer.Properties.Resources.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.QuestionInfo.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.Quiz.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.ReadQuestion.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.Results.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.Signup.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\TrainerSpace.Usettings.resources
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\Trainer.csproj.GenerateResource.cache
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\Trainer.TrustInfo.xml
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\Trainer.exe.manifest
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\Trainer.application
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\Trainer.csproj.CopyComplete
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\Trainer.exe
+D:\Учеба\Учеба\Прога\Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\final source\Trainer\obj\x64\Debug\Trainer.pdb
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\bin\x64\Debug\Trainer.exe.config
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\bin\x64\Debug\Trainer.exe.manifest
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\bin\x64\Debug\Trainer.application
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\bin\x64\Debug\Trainer.exe
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\bin\x64\Debug\Trainer.pdb
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\bin\x64\Debug\System.Data.SQLite.dll
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\bin\x64\Debug\System.Web.Helpers.dll
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\bin\x64\Debug\System.Web.Helpers.xml
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\Trainer.csprojAssemblyReference.cache
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.Addquestion.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.Editadmin.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.Editheme.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.Admin.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.Auth.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.Editquestion.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.First.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.Menu.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.Productinfo.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\Trainer.Properties.Resources.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.QuestionInfo.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.Quiz.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.ReadQuestion.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.Results.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.Signup.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\TrainerSpace.Usettings.resources
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\Trainer.csproj.GenerateResource.cache
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\Trainer.TrustInfo.xml
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\Trainer.exe.manifest
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\Trainer.application
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\Trainer.csproj.CopyComplete
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\Trainer.exe
+D:\Учеба\Учеба\Прога\27 Вариант Тагин\Курсач\Курсач 484\Тагин 494 Курсовой\03 12\Trainer 2\Trainer\obj\x64\Debug\Trainer.pdb
